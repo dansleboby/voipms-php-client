@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "0.0.1",
   "name": "dansleboby/voipms-php-client",
   "description": "A robust PHP client for the VoIP.ms API, built on Guzzle with PSR-3 logging",
   "type": "library",
