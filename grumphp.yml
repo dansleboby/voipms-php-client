@@ -1,0 +1,6 @@
+parameters:
+  git_dir: .
+  tasks:
+    phpcs:
+      standard: phpcs.xml.dist
+      triggered_by: [php]
